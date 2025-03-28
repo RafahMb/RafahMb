@@ -18,7 +18,7 @@
 - **Networking** (TCP/IP, HTTP, DNS) 🌐  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelMb&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafahMb&show_icons=true&theme=dark)  
 
 ## 📫 Contact Me  
 - 📩 Email: [rafael.secdev@gmail.com](mailto:rafael.secdev@gmail.com)  
