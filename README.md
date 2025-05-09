@@ -2,7 +2,7 @@
 
 🚀 **Beginner Programmer & Cybersecurity Enthusiast**  
 🔍 Learning ethical hacking, scripting, and system security  
-🎓 16-year-old student exploring Python, networking, and cybersecurity  
+🎓 17-year-old student exploring Python, networking, and cybersecurity  
 
 ## 🛠 Tech Stack (Still Learning)  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
