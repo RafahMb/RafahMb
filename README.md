@@ -1,28 +1,39 @@
-#  Hi, I'm Rafael  
+# Hi, I'm Rafael Mascarenhas Borza
 
-**Aspiring Back-End Developer**  
-17-year-old student passionate about programming and building scalable systems.  
-Currently focusing on Python, databases, and web back-end development.  
+Computer Science student focused on becoming a strong back-end and software engineer.
 
-## 🛠 Tech Stack (Learning & Practicing)  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)  
+Currently building a solid foundation in programming, computer science fundamentals, and system design. My goal is to work internationally as a software engineer in the future and eventually build my own technology company.
 
-## 🚀 What I'm Currently Learning  
-- **Python** for scripting and back-end development  
-- **Databases & SQL** for data handling 
-- **Web fundamentals** (HTML, CSS, JavaScript) 
-- **Version control** with Git/GitHub   
+## Core Focus
+- Back-end development  
+- Software engineering fundamentals  
+- Databases and system design  
+- Computer architecture and operating systems  
+- Networking and cloud computing  
+- Information security fundamentals  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafahMb&show_icons=true&theme=dark)  
+## Tech Stack (Learning & Practicing)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-## 📫 Contact Me  
-- 📩 Email: [rafael.secdev@gmail.com](mailto:rafael.secdev@gmail.com)  
-- 💼 LinkedIn: - 
+## Currently Learning
+- Python for back-end development  
+- Data structures & problem solving  
+- Databases and SQL  
+- Git & GitHub workflow  
+- Computer science fundamentals  
+
+## Long-Term Goals
+- Become a highly skilled software engineer  
+- Work remotely for international companies (US/EU)  
+- Build my own technology company  
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=RafahMb&theme=tokyonight&hide_border=true)
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/rafael-m-1095173ab/  
+- Email: rafmb.dev@gmail.com
